@@ -2,12 +2,15 @@
 
 I am `Baibhav Kumar`🇮🇳, an explorer currently going full on open-source contribution.
 
+[Portfolio](wholesomebruh.github.io)
+
 I am proficient with HTML, CSS, JavaScript, TypeScript amongst others. Currently learning about IPFS, LangChain, LLMs and prompt building.
 
 - 💞️ I’m looking to collaborate on fintech projects.
 
 - 📫 Ping me at :<p align="center">
   <a href="mailto:cocc1274@gmail.com"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="" width="50" height="40"/></a>   <a href="https://twitter.com/wholesomeBruh"><img src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="" width="50" height="40"/></a>
+  <a href="https://www.linkedin.com/in/baibhav-kumar-303878248/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="" width="50" height="40"/>
 </p>
 
 <h3 align="center">Languages</h3>
