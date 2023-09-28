@@ -2,7 +2,7 @@
 
 I am `Baibhav Kumar`🇮🇳, an explorer currently going full on open-source contribution.
 
-[Portfolio](wholesomebruh.github.io)
+[Portfolio](wholesomebruh.github.io) [Resume](https://docs.google.com/document/d/1Vu5SFv3nBwEFCrM1R5uKjno4J512uCxzud1PLHm3V4U/edit?usp=sharing)
 
 I am proficient with HTML, CSS, JavaScript, TypeScript amongst others. Currently learning about IPFS, LangChain, LLMs and prompt building.
 
