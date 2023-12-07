@@ -1,17 +1,19 @@
-## Hey there 👋
+<h1 align="center">Hi 👋, I'm <i>Baibhav Kumar</i></h1>
+<h3 align="center">A FullStack Web3 Dev from India Building websites & Writing smart contracts </h3>
 
-I am `Baibhav Kumar`🇮🇳, an explorer currently going full on open-source contribution.
+<h1 align="left">About Me</h1>
 
-[Portfolio](wholesomebruh.github.io) [Resume](https://docs.google.com/document/d/1Vu5SFv3nBwEFCrM1R5uKjno4J512uCxzud1PLHm3V4U/edit?usp=sharing)
+<img align="right" alt="Blockchain" width="30%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-I am proficient with HTML, CSS, JavaScript, TypeScript amongst others. Currently learning about IPFS, LangChain, LLMs and prompt building.
+- 🔭 Working on [MindClone](https://github.com/MindClone/)
 
-- 💞️ I’m looking to collaborate on fintech projects.
+- 👨‍💻 Open to new Opportunities in **AI** & **Fullstack Web** developement
 
-- 📫 Ping me at :<p align="center">
-  <a href="mailto:cocc1274@gmail.com"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="" width="50" height="40"/></a>   <a href="https://twitter.com/wholesomeBruh"><img src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" alt="" width="50" height="40"/></a>
-  <a href="https://www.linkedin.com/in/baibhav-kumar-303878248/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="" width="50" height="40"/>
-</p>
+- 🌱 Learning **LLMs** to build autonomous tech and **Rust** for superfast experience 
+  
+- 💬 Ask me about **React, TypeScript, Solidity, MERN**
+  
+- 📄 Know about my experiences from [my resume](https://docs.google.com/document/d/1Vu5SFv3nBwEFCrM1R5uKjno4J512uCxzud1PLHm3V4U/view)
 
 <h3 align="center">Languages</h3>
 <p align="center">
@@ -42,11 +44,15 @@ I am proficient with HTML, CSS, JavaScript, TypeScript amongst others. Currently
   />
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=baibhavKumar1&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baibhavKumar1&hide=TeX&layout=compact)
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baibhavKumar1&theme=algolia&show_icons=true&locale=en" alt="baibhavKumar1" /></p>
 
-<!---
-Wholesomebruh/Wholesomebruh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baibhavKumar1&theme=great-gatsby" alt="baibhavKumar1" /></p>
+</br>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baibhavKumar1&theme=omni&show_icons=true&locale=en&layout=compact" alt="baibhavKumar1" /></p>
+
 [![@wholesomebruh's Holopin board](https://holopin.me/wholesomebruh)](https://holopin.io/@wholesomebruh)
+
+### My Recent Projects
+
+
