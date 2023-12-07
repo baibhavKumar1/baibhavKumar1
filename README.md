@@ -42,8 +42,8 @@ I am proficient with HTML, CSS, JavaScript, TypeScript amongst others. Currently
   />
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=wholesomeBruh&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wholesomeBruh&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=baibhavKumar1&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baibhavKumar1&hide=TeX&layout=compact)
 
 <!---
 Wholesomebruh/Wholesomebruh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
