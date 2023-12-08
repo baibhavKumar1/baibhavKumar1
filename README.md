@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at https://baibhavKumar1.github.io/
   
-- 📄 Know about my experiences from [my resume](https://docs.google.com/document/d/1Vu5SFv3nBwEFCrM1R5uKjno4J512uCxzud1PLHm3V4U/view)
+- 📄 Know about my experiences from [my resume](https://test-resume.masaischool.com/dashboard/profile/?selectedTemplate=ClassicProfessional&resumeId=6572ed080968ffcea2e19a49&profileId=self)
 
 <h3 align="center">Languages</h3>
 <p align="center">
