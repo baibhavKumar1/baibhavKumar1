@@ -3,6 +3,9 @@
 
 <h1 align="left">About Me</h1>
 
+[![](https://camo.githubusercontent.com/f17ba9730c27e5f1230325b94c8b68bbf3115d32650866f6e3d0ade68201beea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/baibhavkumar01/)
+
+
 <img align="right" alt="Blockchain" width="30%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 Working on [MindClone](https://github.com/MindClone/)
@@ -12,6 +15,8 @@
 - 🌱 Learning **LLMs** to build autonomous tech and **Rust** for superfast experience 
   
 - 💬 Ask me about **React, TypeScript, Solidity, MERN**
+
+- 👨‍💻 All of my projects are available at https://baibhavKumar1.github.io/
   
 - 📄 Know about my experiences from [my resume](https://docs.google.com/document/d/1Vu5SFv3nBwEFCrM1R5uKjno4J512uCxzud1PLHm3V4U/view)
 
