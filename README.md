@@ -8,13 +8,13 @@
 
 <img align="right" alt="Blockchain" width="30%" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 Working on [MindClone](https://github.com/MindClone/)
+- 🔭 Working on [Fidget]
 
 - 👨‍💻 Open to new Opportunities in **AI** & **Fullstack Web** developement
 
 - 🌱 Learning **LLMs** to build autonomous tech and **Rust** for superfast experience 
   
-- 💬 Ask me about **React, TypeScript, Solidity, MERN**
+- 💬 Ask me about **MERN, AI, MLOps, Evaluations**
 
 - 👨‍💻 All of my projects are available at https://baibhavKumar1.github.io/
   
