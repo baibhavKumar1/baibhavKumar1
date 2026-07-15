@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <i>Baibhav Kumar</i></h1>
-<h3 align="center">A FullStack Dev from India Building websites & Writing smart contracts </h3>
+<h3 align="center">A FullStack Dev from India Building Production Grade AI-enabled Systems </h3>
 
 <h1 align="left">About Me</h1>
 
